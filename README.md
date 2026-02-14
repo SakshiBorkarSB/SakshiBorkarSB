@@ -1,5 +1,34 @@
 ## Hi, Sakshi here!
 
+🎓 Aspiring Data Analyst  
+📊 Passionate about Data, Analytics & Machine Learning  
+💻 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, SQL & Power BI  
+
+---
+
+## 🚀 About Me
+- 🎯 Currently building real-world Data Analytics projects
+- 📈 Interested in EDA, Business Insights & Predictive Modeling
+- 📊 Love turning raw data into meaningful insights
+- 🌱 Currently learning: Advanced SQL & Power BI
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, Java
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Power BI, Git, GitHub, Google Colab, Jupyter Notebook
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sakshi-borkar-b4836a28a/
+
+---
+
+⭐ Always open to learning, collaborating and growing in the field of Data Analytics.
+
+
 <!--
 **SakshiBorkarSB/SakshiBorkarSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
