@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL, Java
+- **Languages:** Python, SQL, Java, HTML, CSS
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools:** Power BI, Git, GitHub, Google Colab, Jupyter Notebook
 
