@@ -24,7 +24,7 @@
 
 ---
 
-⭐ Always open to learning, collaborating and growing in the field of Data Analytics.
+⭐ Always open to learning, collaborating and growing.
 
 
 <!-- <details>	
